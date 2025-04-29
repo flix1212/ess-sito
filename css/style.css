@@ -416,7 +416,7 @@ header, footer {
 .section:last-of-type p:last-child {
     margin-bottom: 30%;
 }
-.images22 { 
+.images99 { 
     display: flex;
     flex-wrap: wrap;
     margin-top: 10px;
@@ -424,6 +424,13 @@ header, footer {
   justify-content: flex;
 
 } 
+.images67{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+    position: relative;
+}
 .images {
     display: flex;
     flex-wrap: wrap;
