@@ -435,8 +435,9 @@ header, footer {
 }
 
 .img-small {
-    width: 50%;
+    width: 30%;
     height: 50%;
+    margin-left: 40%;
     object-fit: cover;
 }
 .img-small2 {
