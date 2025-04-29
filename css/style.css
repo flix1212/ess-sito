@@ -419,9 +419,11 @@ header, footer {
 .images99 { 
     display: flex;
     flex-wrap: wrap;
-    margin-top: 10px;
+    justify-content: center;
+    margin-top: 30px;
+    width:110%;
     position: relative;
-  justify-content: flex;
+  
 
 } 
 .images67{
