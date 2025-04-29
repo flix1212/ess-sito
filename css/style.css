@@ -419,9 +419,10 @@ header, footer {
 .images22 { 
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     margin-top: 10px;
     position: relative;
+  justify-content: flex-end;
+
 } 
 .images {
     display: flex;
