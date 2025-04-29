@@ -421,7 +421,7 @@ header, footer {
     flex-wrap: wrap;
     margin-top: 10px;
     position: relative;
-  justify-content: flex-end;
+  justify-content: flex;
 
 } 
 .images {
