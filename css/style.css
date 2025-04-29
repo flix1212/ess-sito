@@ -418,11 +418,12 @@ header, footer {
 }
 .images22 {
     display: flex;
-    position: absolute;
-   right: 0;
-   top: 0;
-    width: 110%;
-   height: auto;
+    flex-wrap: wrap;
+    position: relative;
+    margin-left: 40%;
+   margin-top: 20px;
+    width: 120%;
+    object-fit: cover;
 } 
 .images {
     display: flex;
