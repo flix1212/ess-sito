@@ -418,10 +418,11 @@ header, footer {
 }
 .images22 {
     display: flex;
-    width:110%;
-    max-width:none;
     position: absolute;
-    right:0;
+   right: 0;
+   top: 0;
+    width: 110%;
+   height: auto;
 } 
 .images {
     display: flex;
