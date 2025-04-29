@@ -416,14 +416,12 @@ header, footer {
 .section:last-of-type p:last-child {
     margin-bottom: 30%;
 }
-.images22 {
+.images22 { 
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
     position: relative;
-    margin-left: 40%;
-   margin-top: 20px;
-    width: 120%;
-    object-fit: cover;
 } 
 .images {
     display: flex;
