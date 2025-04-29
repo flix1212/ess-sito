@@ -433,6 +433,10 @@ header, footer {
 }
 .img-small21{
     width: 50%;
+    height: 50%;
+    margin-left: 50%;
+    object-fit: cover;
+}
 }
 .images1 {
     display: flex;
@@ -442,7 +446,7 @@ header, footer {
 }
 
 .img-small {
-    width: 40%;
+    width: 50%;
     height: 50%;
     margin-left: 70%;
     object-fit: cover;
