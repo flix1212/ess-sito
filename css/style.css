@@ -87,7 +87,9 @@ font-style: italic;  }
     line-height: 1.4;
   }
 
-
+ .card:hover {
+  transform: scale(1.05); 
+  }
 
   .titolo h1 a{
     color: #007f06;
