@@ -130,7 +130,7 @@ font-style: italic;  }
 }
 
 .card {
-  background-color: #007f06;
+  background-color: #026a4b;
   text-align: center;
   width: 35%; 
   font-family: sans-serif;
@@ -270,6 +270,7 @@ footer p{
     max-width: 70%;
     margin-left: 5%;
 }
+
 
 @media (max-width: 768px) {
 
